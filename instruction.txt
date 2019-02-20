@@ -1,0 +1,2 @@
+To use my template you need some plugin. the most important plugin is elementor and its free. Although you need all in one wp migration plugins for
+export and inport. you can make new page and edit with elementor then just use my template. its very simple.
